@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamza Oumansour</h1>
-<h3 align="center">A passionate software developer from Morocco</h3>
+<h1 align="center">Hi, I'm Hamza OUMANSOUR</h1>
+<h3 align="center">A passionate software engineer</h3>
 
 <div align="center">
 
